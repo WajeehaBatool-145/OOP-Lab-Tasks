@@ -1,4 +1,4 @@
-**👩‍🎓 A set of C++ programs demonstrating student data handling using structures, including single and multiple records with arrays and pointer-based access 📊**
+👩‍🎓✨ A set of C++ programs demonstrating student data handling using structures, including single and multiple records with arrays and pointer-based access 📊💻
 
 
 **👩‍🎓 Student Information System using Structure in C++ 📊** — A simple program that uses a `student` structure to store and display a student’s full name and marks.
