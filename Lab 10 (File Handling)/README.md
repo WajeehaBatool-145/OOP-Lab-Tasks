@@ -1,6 +1,6 @@
 # 📁 File Handling Programs in C++
 
-A set of C++ programs demonstrating **file operations (write, read, append, copy, and line counting)** using `fstream` to manage and process text files. 📄🔄📊
+## A set of C++ programs demonstrating **file operations (write, read, append, copy, and line counting)** using `fstream` to manage and process text files. 📄🔄📊
 
 ## 📁 File Handling in C++
 
